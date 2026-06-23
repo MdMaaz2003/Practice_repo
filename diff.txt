@@ -1,1 +1,1 @@
-This is a simple file used to check git diff
+This is a simple file used to check git diff. that is being used as an example to understand git diff
